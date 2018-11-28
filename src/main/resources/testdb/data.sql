@@ -1,0 +1,25 @@
+
+insert into T_ACCOUNT (NUMBER,LOCATION, NAME) values ('123456789', 'Goa', 'Keri Lee');
+insert into T_ACCOUNT (NUMBER,LOCATION, NAME) values ('123456001', 'india', 'Dollie R. Schnidt');
+insert into T_ACCOUNT (NUMBER,LOCATION, NAME) values ('123456002', 'india', 'Cornelia J. LeClerc');
+insert into T_ACCOUNT (NUMBER,LOCATION, NAME) values ('123456003', 'india', 'Cynthia Rau');
+insert into T_ACCOUNT (NUMBER,LOCATION, NAME) values ('123456004', 'india', 'Douglas R. Cobbs');
+insert into T_ACCOUNT (NUMBER,LOCATION, NAME) values ('123456005', 'india', 'Michael Patel');
+insert into T_ACCOUNT (NUMBER,LOCATION, NAME) values ('123456006', 'india', 'Suzanne Wong');
+insert into T_ACCOUNT (NUMBER,LOCATION, NAME) values ('123456007', 'india', 'Ivan C. Jaya');
+insert into T_ACCOUNT (NUMBER,LOCATION, NAME) values ('123456008', 'india', 'Ida Ketterer');
+insert into T_ACCOUNT (NUMBER,LOCATION, NAME) values ('123456009', 'india', 'Laina Ochoa Lucero');
+insert into T_ACCOUNT (NUMBER,LOCATION, NAME) values ('123456010', 'india', 'Wesley M. Montana');
+insert into T_ACCOUNT (NUMBER,LOCATION, NAME) values ('123456011', 'india', 'Leslie F. McCleary');
+insert into T_ACCOUNT (NUMBER,LOCATION, NAME) values ('123456012', 'india', 'Sayeed D. Mudra');
+insert into T_ACCOUNT (NUMBER,LOCATION, NAME) values ('123456013', 'usa', 'Pietronella J. Domingo');
+insert into T_ACCOUNT (NUMBER,LOCATION, NAME) values ('123456014', 'usa', 'John S. O''Leary');
+insert into T_ACCOUNT (NUMBER,LOCATION, NAME) values ('123456015', 'usa', 'Gladys D. Smith');
+insert into T_ACCOUNT (NUMBER,LOCATION, NAME) values ('123456016', 'usa', 'Sally O. Thygesen');
+insert into T_ACCOUNT (NUMBER,LOCATION, NAME) values ('123456017', 'usa', 'Rachel Vogt');
+insert into T_ACCOUNT (NUMBER,LOCATION, NAME) values ('123456018', 'usa', 'Julia DeLong');
+insert into T_ACCOUNT (NUMBER,LOCATION, NAME) values ('123456019', 'usa', 'Mark T. Rizzoli');
+insert into T_ACCOUNT (NUMBER,LOCATION, NAME) values ('123456020', 'usa', 'Maria J. Angelo');
+  insert into T_ACCOUNT (NUMBER,LOCATION, NAME) values ('123456021', 'india', 'Cynthia Rau');
+    insert into T_ACCOUNT (NUMBER,LOCATION, NAME) values ('123456022', 'india', 'Cynthia Rau');
+      insert into T_ACCOUNT (NUMBER,LOCATION, NAME) values ('123456023', 'india', 'Cynthia Rau');
