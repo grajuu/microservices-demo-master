@@ -1,7 +1,7 @@
 # microservices-demo 
 # For Simple rest call  
 
- ##  For Terralogic 
+ ##  For Terral*******
  
  Processs to run 
  
